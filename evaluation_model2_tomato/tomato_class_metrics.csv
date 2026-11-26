@@ -1,0 +1,11 @@
+class,precision,recall,f1,support
+Bacterial Spot,1.0,0.96,0.9796,100
+Early Blight,0.9709,1.0,0.9852,100
+Healthy,1.0,1.0,1.0,100
+Late Blight,1.0,0.97,0.9848,100
+Leaf Mold,0.9901,1.0,0.995,100
+Septoria Leaf Spot,0.9706,0.99,0.9802,100
+Spider Mites Two-spotted Spider Mite,0.9706,0.99,0.9802,100
+Target Spot,0.9802,0.99,0.9851,100
+Tomato Mosaic Virus,1.0,0.99,0.995,100
+Tomato Yellow Leaf Curl Virus,1.0,0.99,0.995,100

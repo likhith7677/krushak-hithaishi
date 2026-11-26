@@ -1,0 +1,3 @@
+import type {Metadata} from 'next';import './globals.css';import {I18nProvider} from '@/lib/i18n';import Header from '@/components/Header';import Footer from '@/components/Footer';import RegisterSW from '@/components/RegisterSW';import VoiceAssistant from '@/components/VoiceAssistant';
+export const metadata:Metadata={title:'Krushak Hithaishi | Our Fields. Our Future.',description:'Kannada-first village agriculture platform for crop care and nearby agricultural shops.',manifest:'/manifest.json'};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="kn"><body><I18nProvider><RegisterSW/><Header/><main>{children}</main><Footer/><VoiceAssistant/></I18nProvider></body></html>}

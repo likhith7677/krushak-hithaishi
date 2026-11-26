@@ -1,0 +1,27 @@
+{
+  "name": "krushak-hithaishi-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0",
+    "lint": "tsc --noEmit",
+    "test:voice": "node scripts/voice_smoke_test.cjs",
+    "test:farmer": "node scripts/voice_farmer_test.cjs"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/leaflet": "^1.9.12",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,63 @@
+# Render Blueprint — paid production-style deployment, review costs first.
+# Push this project to a Git repository before creating the Blueprint.
+# The backend uses a paid persistent disk so photo uploads survive restarts.
+# Do not switch the Postgres database to free for long-lived farmer data.
+services:
+  - type: web
+    name: krushak-hithaishi-api
+    runtime: docker
+    plan: 1c-2g
+    region: singapore
+    dockerContext: ./backend
+    dockerfilePath: ./backend/Dockerfile
+    healthCheckPath: /api/readiness
+    disk:
+      name: kh-uploads
+      mountPath: /app/uploads
+      sizeGB: 1
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: kh-postgres
+          property: connectionString
+      - key: KH_PUBLIC_DEPLOYMENT
+        value: 'true'
+      - key: COOKIE_SECURE
+        value: 'true'
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: ADMIN_PHONE
+        sync: false
+      - key: TF_CPP_MIN_LOG_LEVEL
+        value: '2'
+      - key: TF_NUM_INTRAOP_THREADS
+        value: '2'
+      - key: TF_NUM_INTEROP_THREADS
+        value: '2'
+  - type: web
+    name: krushak-hithaishi-web
+    runtime: docker
+    plan: 0.5c-512mb
+    region: singapore
+    dockerContext: ./frontend
+    dockerfilePath: ./frontend/Dockerfile
+    healthCheckPath: /
+    envVars:
+      - key: KH_BACKEND_HOSTPORT
+        fromService:
+          name: krushak-hithaishi-api
+          type: web
+          property: hostport
+      - key: NODE_ENV
+        value: production
+databases:
+  - name: kh-postgres
+    plan: 0.1c-256mb
+    region: singapore
+    databaseName: krushak
+    diskSizeGB: 1
+    ipAllowList: []

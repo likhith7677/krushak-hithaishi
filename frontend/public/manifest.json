@@ -1,0 +1,21 @@
+{
+  "name": "Krushak Hithaishi",
+  "short_name": "Krushak",
+  "description": "Farmer-first village agriculture platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf8ee",
+  "theme_color": "#24573c",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

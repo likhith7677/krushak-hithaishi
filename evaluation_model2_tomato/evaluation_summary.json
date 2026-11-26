@@ -1,0 +1,9 @@
+{
+  "model": "EfficientNetB0",
+  "images": 1000,
+  "correct": 988,
+  "incorrect": 12,
+  "accuracy": 0.988,
+  "macro_f1": 0.988,
+  "caveat": "Images are PlantVillage, potential training overlap; NOT an independent test or field accuracy evaluation."
+}

@@ -1,0 +1,1001 @@
+file,true_class,predicted_class,confidence,correct
+images/Tomato_Bacterial_spot/001.jpg,Bacterial Spot,Bacterial Spot,0.966433,1
+images/Tomato_Bacterial_spot/002.jpg,Bacterial Spot,Bacterial Spot,0.99995,1
+images/Tomato_Bacterial_spot/003.jpg,Bacterial Spot,Bacterial Spot,0.99991,1
+images/Tomato_Bacterial_spot/004.jpg,Bacterial Spot,Early Blight,0.803625,0
+images/Tomato_Bacterial_spot/005.jpg,Bacterial Spot,Bacterial Spot,0.998601,1
+images/Tomato_Bacterial_spot/006.jpg,Bacterial Spot,Bacterial Spot,0.527063,1
+images/Tomato_Bacterial_spot/007.jpg,Bacterial Spot,Bacterial Spot,0.999955,1
+images/Tomato_Bacterial_spot/008.jpg,Bacterial Spot,Bacterial Spot,0.998717,1
+images/Tomato_Bacterial_spot/009.jpg,Bacterial Spot,Bacterial Spot,0.999945,1
+images/Tomato_Bacterial_spot/010.jpg,Bacterial Spot,Bacterial Spot,0.999611,1
+images/Tomato_Bacterial_spot/011.jpg,Bacterial Spot,Bacterial Spot,0.999655,1
+images/Tomato_Bacterial_spot/012.jpg,Bacterial Spot,Bacterial Spot,0.999994,1
+images/Tomato_Bacterial_spot/013.jpg,Bacterial Spot,Bacterial Spot,0.999124,1
+images/Tomato_Bacterial_spot/014.jpg,Bacterial Spot,Bacterial Spot,0.998699,1
+images/Tomato_Bacterial_spot/015.jpg,Bacterial Spot,Bacterial Spot,0.999979,1
+images/Tomato_Bacterial_spot/016.jpg,Bacterial Spot,Bacterial Spot,0.999443,1
+images/Tomato_Bacterial_spot/017.jpg,Bacterial Spot,Bacterial Spot,0.999967,1
+images/Tomato_Bacterial_spot/018.jpg,Bacterial Spot,Bacterial Spot,0.991314,1
+images/Tomato_Bacterial_spot/019.jpg,Bacterial Spot,Bacterial Spot,1.0,1
+images/Tomato_Bacterial_spot/020.jpg,Bacterial Spot,Bacterial Spot,0.999758,1
+images/Tomato_Bacterial_spot/021.jpg,Bacterial Spot,Bacterial Spot,0.999892,1
+images/Tomato_Bacterial_spot/022.jpg,Bacterial Spot,Bacterial Spot,0.6305,1
+images/Tomato_Bacterial_spot/023.jpg,Bacterial Spot,Bacterial Spot,0.983901,1
+images/Tomato_Bacterial_spot/024.jpg,Bacterial Spot,Bacterial Spot,0.999983,1
+images/Tomato_Bacterial_spot/025.jpg,Bacterial Spot,Bacterial Spot,0.887129,1
+images/Tomato_Bacterial_spot/026.jpg,Bacterial Spot,Early Blight,0.529096,0
+images/Tomato_Bacterial_spot/027.jpg,Bacterial Spot,Bacterial Spot,0.996252,1
+images/Tomato_Bacterial_spot/028.jpg,Bacterial Spot,Bacterial Spot,0.997251,1
+images/Tomato_Bacterial_spot/029.jpg,Bacterial Spot,Bacterial Spot,0.965727,1
+images/Tomato_Bacterial_spot/030.jpg,Bacterial Spot,Bacterial Spot,0.981625,1
+images/Tomato_Bacterial_spot/031.jpg,Bacterial Spot,Bacterial Spot,0.999935,1
+images/Tomato_Bacterial_spot/032.jpg,Bacterial Spot,Bacterial Spot,0.999989,1
+images/Tomato_Bacterial_spot/033.jpg,Bacterial Spot,Bacterial Spot,0.999984,1
+images/Tomato_Bacterial_spot/034.jpg,Bacterial Spot,Bacterial Spot,0.997312,1
+images/Tomato_Bacterial_spot/035.jpg,Bacterial Spot,Bacterial Spot,0.999986,1
+images/Tomato_Bacterial_spot/036.jpg,Bacterial Spot,Bacterial Spot,0.981681,1
+images/Tomato_Bacterial_spot/037.jpg,Bacterial Spot,Bacterial Spot,0.999319,1
+images/Tomato_Bacterial_spot/038.jpg,Bacterial Spot,Bacterial Spot,0.999887,1
+images/Tomato_Bacterial_spot/039.jpg,Bacterial Spot,Bacterial Spot,0.999906,1
+images/Tomato_Bacterial_spot/040.jpg,Bacterial Spot,Bacterial Spot,0.988573,1
+images/Tomato_Bacterial_spot/041.jpg,Bacterial Spot,Bacterial Spot,0.991124,1
+images/Tomato_Bacterial_spot/042.jpg,Bacterial Spot,Bacterial Spot,0.999983,1
+images/Tomato_Bacterial_spot/043.jpg,Bacterial Spot,Bacterial Spot,0.999806,1
+images/Tomato_Bacterial_spot/044.jpg,Bacterial Spot,Bacterial Spot,0.999908,1
+images/Tomato_Bacterial_spot/045.jpg,Bacterial Spot,Bacterial Spot,0.999725,1
+images/Tomato_Bacterial_spot/046.jpg,Bacterial Spot,Bacterial Spot,0.999998,1
+images/Tomato_Bacterial_spot/047.jpg,Bacterial Spot,Bacterial Spot,0.846008,1
+images/Tomato_Bacterial_spot/048.jpg,Bacterial Spot,Bacterial Spot,0.997848,1
+images/Tomato_Bacterial_spot/049.jpg,Bacterial Spot,Bacterial Spot,0.999718,1
+images/Tomato_Bacterial_spot/050.jpg,Bacterial Spot,Bacterial Spot,0.988811,1
+images/Tomato_Bacterial_spot/051.jpg,Bacterial Spot,Bacterial Spot,0.996858,1
+images/Tomato_Bacterial_spot/052.jpg,Bacterial Spot,Target Spot,0.839626,0
+images/Tomato_Bacterial_spot/053.jpg,Bacterial Spot,Septoria Leaf Spot,0.89153,0
+images/Tomato_Bacterial_spot/054.jpg,Bacterial Spot,Bacterial Spot,0.997411,1
+images/Tomato_Bacterial_spot/055.jpg,Bacterial Spot,Bacterial Spot,0.997417,1
+images/Tomato_Bacterial_spot/056.jpg,Bacterial Spot,Bacterial Spot,0.999948,1
+images/Tomato_Bacterial_spot/057.jpg,Bacterial Spot,Bacterial Spot,0.999998,1
+images/Tomato_Bacterial_spot/058.jpg,Bacterial Spot,Bacterial Spot,0.999288,1
+images/Tomato_Bacterial_spot/059.jpg,Bacterial Spot,Bacterial Spot,0.999565,1
+images/Tomato_Bacterial_spot/060.jpg,Bacterial Spot,Bacterial Spot,0.747822,1
+images/Tomato_Bacterial_spot/061.jpg,Bacterial Spot,Bacterial Spot,0.999694,1
+images/Tomato_Bacterial_spot/062.jpg,Bacterial Spot,Bacterial Spot,0.999945,1
+images/Tomato_Bacterial_spot/063.jpg,Bacterial Spot,Bacterial Spot,0.999976,1
+images/Tomato_Bacterial_spot/064.jpg,Bacterial Spot,Bacterial Spot,0.990171,1
+images/Tomato_Bacterial_spot/065.jpg,Bacterial Spot,Bacterial Spot,0.999113,1
+images/Tomato_Bacterial_spot/066.jpg,Bacterial Spot,Bacterial Spot,0.626357,1
+images/Tomato_Bacterial_spot/067.jpg,Bacterial Spot,Bacterial Spot,0.99961,1
+images/Tomato_Bacterial_spot/068.jpg,Bacterial Spot,Bacterial Spot,0.999962,1
+images/Tomato_Bacterial_spot/069.jpg,Bacterial Spot,Bacterial Spot,0.999969,1
+images/Tomato_Bacterial_spot/070.jpg,Bacterial Spot,Bacterial Spot,0.999825,1
+images/Tomato_Bacterial_spot/071.jpg,Bacterial Spot,Bacterial Spot,0.99992,1
+images/Tomato_Bacterial_spot/072.jpg,Bacterial Spot,Bacterial Spot,0.997433,1
+images/Tomato_Bacterial_spot/073.jpg,Bacterial Spot,Bacterial Spot,0.999993,1
+images/Tomato_Bacterial_spot/074.jpg,Bacterial Spot,Bacterial Spot,0.999673,1
+images/Tomato_Bacterial_spot/075.jpg,Bacterial Spot,Bacterial Spot,0.977753,1
+images/Tomato_Bacterial_spot/076.jpg,Bacterial Spot,Bacterial Spot,0.999496,1
+images/Tomato_Bacterial_spot/077.jpg,Bacterial Spot,Bacterial Spot,0.999329,1
+images/Tomato_Bacterial_spot/078.jpg,Bacterial Spot,Bacterial Spot,0.994951,1
+images/Tomato_Bacterial_spot/079.jpg,Bacterial Spot,Bacterial Spot,0.994894,1
+images/Tomato_Bacterial_spot/080.jpg,Bacterial Spot,Bacterial Spot,0.999975,1
+images/Tomato_Bacterial_spot/081.jpg,Bacterial Spot,Bacterial Spot,0.997559,1
+images/Tomato_Bacterial_spot/082.jpg,Bacterial Spot,Bacterial Spot,0.999949,1
+images/Tomato_Bacterial_spot/083.jpg,Bacterial Spot,Bacterial Spot,0.999904,1
+images/Tomato_Bacterial_spot/084.jpg,Bacterial Spot,Bacterial Spot,0.999975,1
+images/Tomato_Bacterial_spot/085.jpg,Bacterial Spot,Bacterial Spot,0.999977,1
+images/Tomato_Bacterial_spot/086.jpg,Bacterial Spot,Bacterial Spot,0.998957,1
+images/Tomato_Bacterial_spot/087.jpg,Bacterial Spot,Bacterial Spot,0.998361,1
+images/Tomato_Bacterial_spot/088.jpg,Bacterial Spot,Bacterial Spot,0.675971,1
+images/Tomato_Bacterial_spot/089.jpg,Bacterial Spot,Bacterial Spot,0.999867,1
+images/Tomato_Bacterial_spot/090.jpg,Bacterial Spot,Bacterial Spot,0.999852,1
+images/Tomato_Bacterial_spot/091.jpg,Bacterial Spot,Bacterial Spot,0.998833,1
+images/Tomato_Bacterial_spot/092.jpg,Bacterial Spot,Bacterial Spot,0.999761,1
+images/Tomato_Bacterial_spot/093.jpg,Bacterial Spot,Bacterial Spot,0.999995,1
+images/Tomato_Bacterial_spot/094.jpg,Bacterial Spot,Bacterial Spot,0.999405,1
+images/Tomato_Bacterial_spot/095.jpg,Bacterial Spot,Bacterial Spot,0.994439,1
+images/Tomato_Bacterial_spot/096.jpg,Bacterial Spot,Bacterial Spot,0.999967,1
+images/Tomato_Bacterial_spot/097.jpg,Bacterial Spot,Bacterial Spot,0.999909,1
+images/Tomato_Bacterial_spot/098.jpg,Bacterial Spot,Bacterial Spot,0.998841,1
+images/Tomato_Bacterial_spot/099.jpg,Bacterial Spot,Bacterial Spot,0.999899,1
+images/Tomato_Bacterial_spot/100.jpg,Bacterial Spot,Bacterial Spot,0.999907,1
+images/Tomato_Early_blight/001.jpg,Early Blight,Early Blight,0.995877,1
+images/Tomato_Early_blight/002.jpg,Early Blight,Early Blight,1.0,1
+images/Tomato_Early_blight/003.jpg,Early Blight,Early Blight,0.999867,1
+images/Tomato_Early_blight/004.jpg,Early Blight,Early Blight,0.994423,1
+images/Tomato_Early_blight/005.jpg,Early Blight,Early Blight,0.899345,1
+images/Tomato_Early_blight/006.jpg,Early Blight,Early Blight,0.998356,1
+images/Tomato_Early_blight/007.jpg,Early Blight,Early Blight,0.999999,1
+images/Tomato_Early_blight/008.jpg,Early Blight,Early Blight,0.999379,1
+images/Tomato_Early_blight/009.jpg,Early Blight,Early Blight,0.98222,1
+images/Tomato_Early_blight/010.jpg,Early Blight,Early Blight,0.999655,1
+images/Tomato_Early_blight/011.jpg,Early Blight,Early Blight,0.999972,1
+images/Tomato_Early_blight/012.jpg,Early Blight,Early Blight,0.99868,1
+images/Tomato_Early_blight/013.jpg,Early Blight,Early Blight,0.998792,1
+images/Tomato_Early_blight/014.jpg,Early Blight,Early Blight,0.9926,1
+images/Tomato_Early_blight/015.jpg,Early Blight,Early Blight,0.994103,1
+images/Tomato_Early_blight/016.jpg,Early Blight,Early Blight,0.999097,1
+images/Tomato_Early_blight/017.jpg,Early Blight,Early Blight,0.994662,1
+images/Tomato_Early_blight/018.jpg,Early Blight,Early Blight,1.0,1
+images/Tomato_Early_blight/019.jpg,Early Blight,Early Blight,0.999925,1
+images/Tomato_Early_blight/020.jpg,Early Blight,Early Blight,0.986587,1
+images/Tomato_Early_blight/021.jpg,Early Blight,Early Blight,0.999113,1
+images/Tomato_Early_blight/022.jpg,Early Blight,Early Blight,0.999998,1
+images/Tomato_Early_blight/023.jpg,Early Blight,Early Blight,0.987426,1
+images/Tomato_Early_blight/024.jpg,Early Blight,Early Blight,0.999975,1
+images/Tomato_Early_blight/025.jpg,Early Blight,Early Blight,0.999464,1
+images/Tomato_Early_blight/026.jpg,Early Blight,Early Blight,0.96579,1
+images/Tomato_Early_blight/027.jpg,Early Blight,Early Blight,0.999773,1
+images/Tomato_Early_blight/028.jpg,Early Blight,Early Blight,0.999284,1
+images/Tomato_Early_blight/029.jpg,Early Blight,Early Blight,0.998627,1
+images/Tomato_Early_blight/030.jpg,Early Blight,Early Blight,0.844256,1
+images/Tomato_Early_blight/031.jpg,Early Blight,Early Blight,0.999998,1
+images/Tomato_Early_blight/032.jpg,Early Blight,Early Blight,0.999989,1
+images/Tomato_Early_blight/033.jpg,Early Blight,Early Blight,0.999999,1
+images/Tomato_Early_blight/034.jpg,Early Blight,Early Blight,0.999965,1
+images/Tomato_Early_blight/035.jpg,Early Blight,Early Blight,0.999946,1
+images/Tomato_Early_blight/036.jpg,Early Blight,Early Blight,0.999076,1
+images/Tomato_Early_blight/037.jpg,Early Blight,Early Blight,0.999491,1
+images/Tomato_Early_blight/038.jpg,Early Blight,Early Blight,0.993443,1
+images/Tomato_Early_blight/039.jpg,Early Blight,Early Blight,1.0,1
+images/Tomato_Early_blight/040.jpg,Early Blight,Early Blight,0.999999,1
+images/Tomato_Early_blight/041.jpg,Early Blight,Early Blight,0.9525,1
+images/Tomato_Early_blight/042.jpg,Early Blight,Early Blight,0.999897,1
+images/Tomato_Early_blight/043.jpg,Early Blight,Early Blight,0.986613,1
+images/Tomato_Early_blight/044.jpg,Early Blight,Early Blight,0.999862,1
+images/Tomato_Early_blight/045.jpg,Early Blight,Early Blight,0.99998,1
+images/Tomato_Early_blight/046.jpg,Early Blight,Early Blight,0.99338,1
+images/Tomato_Early_blight/047.jpg,Early Blight,Early Blight,0.975106,1
+images/Tomato_Early_blight/048.jpg,Early Blight,Early Blight,0.97266,1
+images/Tomato_Early_blight/049.jpg,Early Blight,Early Blight,0.999222,1
+images/Tomato_Early_blight/050.jpg,Early Blight,Early Blight,0.999816,1
+images/Tomato_Early_blight/051.jpg,Early Blight,Early Blight,0.988447,1
+images/Tomato_Early_blight/052.jpg,Early Blight,Early Blight,0.998015,1
+images/Tomato_Early_blight/053.jpg,Early Blight,Early Blight,0.686128,1
+images/Tomato_Early_blight/054.jpg,Early Blight,Early Blight,0.999949,1
+images/Tomato_Early_blight/055.jpg,Early Blight,Early Blight,0.993438,1
+images/Tomato_Early_blight/056.jpg,Early Blight,Early Blight,0.999999,1
+images/Tomato_Early_blight/057.jpg,Early Blight,Early Blight,0.999987,1
+images/Tomato_Early_blight/058.jpg,Early Blight,Early Blight,1.0,1
+images/Tomato_Early_blight/059.jpg,Early Blight,Early Blight,0.999936,1
+images/Tomato_Early_blight/060.jpg,Early Blight,Early Blight,0.997967,1
+images/Tomato_Early_blight/061.jpg,Early Blight,Early Blight,0.999994,1
+images/Tomato_Early_blight/062.jpg,Early Blight,Early Blight,0.999997,1
+images/Tomato_Early_blight/063.jpg,Early Blight,Early Blight,0.998398,1
+images/Tomato_Early_blight/064.jpg,Early Blight,Early Blight,0.999032,1
+images/Tomato_Early_blight/065.jpg,Early Blight,Early Blight,1.0,1
+images/Tomato_Early_blight/066.jpg,Early Blight,Early Blight,0.999277,1
+images/Tomato_Early_blight/067.jpg,Early Blight,Early Blight,0.999999,1
+images/Tomato_Early_blight/068.jpg,Early Blight,Early Blight,0.999876,1
+images/Tomato_Early_blight/069.jpg,Early Blight,Early Blight,0.999994,1
+images/Tomato_Early_blight/070.jpg,Early Blight,Early Blight,0.998518,1
+images/Tomato_Early_blight/071.jpg,Early Blight,Early Blight,0.999989,1
+images/Tomato_Early_blight/072.jpg,Early Blight,Early Blight,0.999569,1
+images/Tomato_Early_blight/073.jpg,Early Blight,Early Blight,0.997,1
+images/Tomato_Early_blight/074.jpg,Early Blight,Early Blight,0.999947,1
+images/Tomato_Early_blight/075.jpg,Early Blight,Early Blight,0.999653,1
+images/Tomato_Early_blight/076.jpg,Early Blight,Early Blight,0.999977,1
+images/Tomato_Early_blight/077.jpg,Early Blight,Early Blight,0.975291,1
+images/Tomato_Early_blight/078.jpg,Early Blight,Early Blight,0.995284,1
+images/Tomato_Early_blight/079.jpg,Early Blight,Early Blight,0.997696,1
+images/Tomato_Early_blight/080.jpg,Early Blight,Early Blight,0.999564,1
+images/Tomato_Early_blight/081.jpg,Early Blight,Early Blight,0.999999,1
+images/Tomato_Early_blight/082.jpg,Early Blight,Early Blight,0.999962,1
+images/Tomato_Early_blight/083.jpg,Early Blight,Early Blight,0.998711,1
+images/Tomato_Early_blight/084.jpg,Early Blight,Early Blight,0.999512,1
+images/Tomato_Early_blight/085.jpg,Early Blight,Early Blight,0.999118,1
+images/Tomato_Early_blight/086.jpg,Early Blight,Early Blight,0.989573,1
+images/Tomato_Early_blight/087.jpg,Early Blight,Early Blight,0.999496,1
+images/Tomato_Early_blight/088.jpg,Early Blight,Early Blight,0.994033,1
+images/Tomato_Early_blight/089.jpg,Early Blight,Early Blight,0.996884,1
+images/Tomato_Early_blight/090.jpg,Early Blight,Early Blight,0.991543,1
+images/Tomato_Early_blight/091.jpg,Early Blight,Early Blight,0.999921,1
+images/Tomato_Early_blight/092.jpg,Early Blight,Early Blight,0.994443,1
+images/Tomato_Early_blight/093.jpg,Early Blight,Early Blight,0.997079,1
+images/Tomato_Early_blight/094.jpg,Early Blight,Early Blight,0.999982,1
+images/Tomato_Early_blight/095.jpg,Early Blight,Early Blight,0.999083,1
+images/Tomato_Early_blight/096.jpg,Early Blight,Early Blight,0.999818,1
+images/Tomato_Early_blight/097.jpg,Early Blight,Early Blight,0.993278,1
+images/Tomato_Early_blight/098.jpg,Early Blight,Early Blight,0.999996,1
+images/Tomato_Early_blight/099.jpg,Early Blight,Early Blight,0.998623,1
+images/Tomato_Early_blight/100.jpg,Early Blight,Early Blight,0.97245,1
+images/Tomato_healthy/001.jpg,Healthy,Healthy,0.999836,1
+images/Tomato_healthy/002.jpg,Healthy,Healthy,0.999993,1
+images/Tomato_healthy/003.jpg,Healthy,Healthy,1.0,1
+images/Tomato_healthy/004.jpg,Healthy,Healthy,0.988259,1
+images/Tomato_healthy/005.jpg,Healthy,Healthy,0.999856,1
+images/Tomato_healthy/006.jpg,Healthy,Healthy,0.994766,1
+images/Tomato_healthy/007.jpg,Healthy,Healthy,0.999868,1
+images/Tomato_healthy/008.jpg,Healthy,Healthy,0.999328,1
+images/Tomato_healthy/009.jpg,Healthy,Healthy,0.972672,1
+images/Tomato_healthy/010.jpg,Healthy,Healthy,0.994833,1
+images/Tomato_healthy/011.jpg,Healthy,Healthy,0.833855,1
+images/Tomato_healthy/012.jpg,Healthy,Healthy,0.99996,1
+images/Tomato_healthy/013.jpg,Healthy,Healthy,0.999999,1
+images/Tomato_healthy/014.jpg,Healthy,Healthy,0.997664,1
+images/Tomato_healthy/015.jpg,Healthy,Healthy,0.975654,1
+images/Tomato_healthy/016.jpg,Healthy,Healthy,0.998809,1
+images/Tomato_healthy/017.jpg,Healthy,Healthy,0.999638,1
+images/Tomato_healthy/018.jpg,Healthy,Healthy,0.999982,1
+images/Tomato_healthy/019.jpg,Healthy,Healthy,0.999979,1
+images/Tomato_healthy/020.jpg,Healthy,Healthy,0.996163,1
+images/Tomato_healthy/021.jpg,Healthy,Healthy,0.99998,1
+images/Tomato_healthy/022.jpg,Healthy,Healthy,0.952719,1
+images/Tomato_healthy/023.jpg,Healthy,Healthy,0.999314,1
+images/Tomato_healthy/024.jpg,Healthy,Healthy,0.999986,1
+images/Tomato_healthy/025.jpg,Healthy,Healthy,0.999557,1
+images/Tomato_healthy/026.jpg,Healthy,Healthy,0.999691,1
+images/Tomato_healthy/027.jpg,Healthy,Healthy,0.999703,1
+images/Tomato_healthy/028.jpg,Healthy,Healthy,0.996518,1
+images/Tomato_healthy/029.jpg,Healthy,Healthy,0.999383,1
+images/Tomato_healthy/030.jpg,Healthy,Healthy,0.999997,1
+images/Tomato_healthy/031.jpg,Healthy,Healthy,0.99993,1
+images/Tomato_healthy/032.jpg,Healthy,Healthy,0.998844,1
+images/Tomato_healthy/033.jpg,Healthy,Healthy,0.996309,1
+images/Tomato_healthy/034.jpg,Healthy,Healthy,0.95894,1
+images/Tomato_healthy/035.jpg,Healthy,Healthy,0.999998,1
+images/Tomato_healthy/036.jpg,Healthy,Healthy,0.9999,1
+images/Tomato_healthy/037.jpg,Healthy,Healthy,0.984134,1
+images/Tomato_healthy/038.jpg,Healthy,Healthy,1.0,1
+images/Tomato_healthy/039.jpg,Healthy,Healthy,0.999989,1
+images/Tomato_healthy/040.jpg,Healthy,Healthy,0.843319,1
+images/Tomato_healthy/041.jpg,Healthy,Healthy,0.6122,1
+images/Tomato_healthy/042.jpg,Healthy,Healthy,0.998974,1
+images/Tomato_healthy/043.jpg,Healthy,Healthy,0.885684,1
+images/Tomato_healthy/044.jpg,Healthy,Healthy,0.999857,1
+images/Tomato_healthy/045.jpg,Healthy,Healthy,0.999988,1
+images/Tomato_healthy/046.jpg,Healthy,Healthy,0.985024,1
+images/Tomato_healthy/047.jpg,Healthy,Healthy,0.998555,1
+images/Tomato_healthy/048.jpg,Healthy,Healthy,0.999984,1
+images/Tomato_healthy/049.jpg,Healthy,Healthy,0.998472,1
+images/Tomato_healthy/050.jpg,Healthy,Healthy,0.998211,1
+images/Tomato_healthy/051.jpg,Healthy,Healthy,1.0,1
+images/Tomato_healthy/052.jpg,Healthy,Healthy,0.999793,1
+images/Tomato_healthy/053.jpg,Healthy,Healthy,0.998564,1
+images/Tomato_healthy/054.jpg,Healthy,Healthy,0.99979,1
+images/Tomato_healthy/055.jpg,Healthy,Healthy,0.999788,1
+images/Tomato_healthy/056.jpg,Healthy,Healthy,0.960818,1
+images/Tomato_healthy/057.jpg,Healthy,Healthy,0.999573,1
+images/Tomato_healthy/058.jpg,Healthy,Healthy,0.999999,1
+images/Tomato_healthy/059.jpg,Healthy,Healthy,0.998606,1
+images/Tomato_healthy/060.jpg,Healthy,Healthy,0.999984,1
+images/Tomato_healthy/061.jpg,Healthy,Healthy,0.999653,1
+images/Tomato_healthy/062.jpg,Healthy,Healthy,0.99999,1
+images/Tomato_healthy/063.jpg,Healthy,Healthy,0.999974,1
+images/Tomato_healthy/064.jpg,Healthy,Healthy,0.999926,1
+images/Tomato_healthy/065.jpg,Healthy,Healthy,0.963585,1
+images/Tomato_healthy/066.jpg,Healthy,Healthy,0.868588,1
+images/Tomato_healthy/067.jpg,Healthy,Healthy,0.999978,1
+images/Tomato_healthy/068.jpg,Healthy,Healthy,0.995128,1
+images/Tomato_healthy/069.jpg,Healthy,Healthy,0.99968,1
+images/Tomato_healthy/070.jpg,Healthy,Healthy,0.765888,1
+images/Tomato_healthy/071.jpg,Healthy,Healthy,0.999999,1
+images/Tomato_healthy/072.jpg,Healthy,Healthy,0.976381,1
+images/Tomato_healthy/073.jpg,Healthy,Healthy,0.990915,1
+images/Tomato_healthy/074.jpg,Healthy,Healthy,0.969008,1
+images/Tomato_healthy/075.jpg,Healthy,Healthy,0.999997,1
+images/Tomato_healthy/076.jpg,Healthy,Healthy,0.999998,1
+images/Tomato_healthy/077.jpg,Healthy,Healthy,0.999974,1
+images/Tomato_healthy/078.jpg,Healthy,Healthy,0.998667,1
+images/Tomato_healthy/079.jpg,Healthy,Healthy,0.99598,1
+images/Tomato_healthy/080.jpg,Healthy,Healthy,1.0,1
+images/Tomato_healthy/081.jpg,Healthy,Healthy,0.998444,1
+images/Tomato_healthy/082.jpg,Healthy,Healthy,1.0,1
+images/Tomato_healthy/083.jpg,Healthy,Healthy,0.999435,1
+images/Tomato_healthy/084.jpg,Healthy,Healthy,0.994059,1
+images/Tomato_healthy/085.jpg,Healthy,Healthy,0.923075,1
+images/Tomato_healthy/086.jpg,Healthy,Healthy,0.999999,1
+images/Tomato_healthy/087.jpg,Healthy,Healthy,0.999957,1
+images/Tomato_healthy/088.jpg,Healthy,Healthy,0.984044,1
+images/Tomato_healthy/089.jpg,Healthy,Healthy,0.999985,1
+images/Tomato_healthy/090.jpg,Healthy,Healthy,0.995131,1
+images/Tomato_healthy/091.jpg,Healthy,Healthy,0.998621,1
+images/Tomato_healthy/092.jpg,Healthy,Healthy,0.999903,1
+images/Tomato_healthy/093.jpg,Healthy,Healthy,0.999997,1
+images/Tomato_healthy/094.jpg,Healthy,Healthy,0.999994,1
+images/Tomato_healthy/095.jpg,Healthy,Healthy,0.999949,1
+images/Tomato_healthy/096.jpg,Healthy,Healthy,0.997024,1
+images/Tomato_healthy/097.jpg,Healthy,Healthy,0.871469,1
+images/Tomato_healthy/098.jpg,Healthy,Healthy,0.99874,1
+images/Tomato_healthy/099.jpg,Healthy,Healthy,0.998856,1
+images/Tomato_healthy/100.jpg,Healthy,Healthy,0.998732,1
+images/Tomato_Late_blight/001.jpg,Late Blight,Late Blight,0.999998,1
+images/Tomato_Late_blight/002.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/003.jpg,Late Blight,Late Blight,0.997911,1
+images/Tomato_Late_blight/004.jpg,Late Blight,Late Blight,0.999963,1
+images/Tomato_Late_blight/005.jpg,Late Blight,Late Blight,0.998224,1
+images/Tomato_Late_blight/006.jpg,Late Blight,Late Blight,0.998682,1
+images/Tomato_Late_blight/007.jpg,Late Blight,Late Blight,0.999951,1
+images/Tomato_Late_blight/008.jpg,Late Blight,Late Blight,0.999928,1
+images/Tomato_Late_blight/009.jpg,Late Blight,Late Blight,0.999702,1
+images/Tomato_Late_blight/010.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/011.jpg,Late Blight,Late Blight,0.99999,1
+images/Tomato_Late_blight/012.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/013.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/014.jpg,Late Blight,Late Blight,0.998519,1
+images/Tomato_Late_blight/015.jpg,Late Blight,Late Blight,0.997311,1
+images/Tomato_Late_blight/016.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/017.jpg,Late Blight,Late Blight,0.999893,1
+images/Tomato_Late_blight/018.jpg,Late Blight,Late Blight,0.999984,1
+images/Tomato_Late_blight/019.jpg,Late Blight,Late Blight,0.999838,1
+images/Tomato_Late_blight/020.jpg,Late Blight,Late Blight,0.999997,1
+images/Tomato_Late_blight/021.jpg,Late Blight,Late Blight,0.999882,1
+images/Tomato_Late_blight/022.jpg,Late Blight,Late Blight,0.999996,1
+images/Tomato_Late_blight/023.jpg,Late Blight,Late Blight,0.999858,1
+images/Tomato_Late_blight/024.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/025.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/026.jpg,Late Blight,Late Blight,0.999928,1
+images/Tomato_Late_blight/027.jpg,Late Blight,Late Blight,0.999949,1
+images/Tomato_Late_blight/028.jpg,Late Blight,Late Blight,0.992702,1
+images/Tomato_Late_blight/029.jpg,Late Blight,Septoria Leaf Spot,0.650619,0
+images/Tomato_Late_blight/030.jpg,Late Blight,Late Blight,0.993643,1
+images/Tomato_Late_blight/031.jpg,Late Blight,Late Blight,0.999983,1
+images/Tomato_Late_blight/032.jpg,Late Blight,Late Blight,0.989211,1
+images/Tomato_Late_blight/033.jpg,Late Blight,Late Blight,0.998975,1
+images/Tomato_Late_blight/034.jpg,Late Blight,Early Blight,0.945087,0
+images/Tomato_Late_blight/035.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/036.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/037.jpg,Late Blight,Late Blight,0.983187,1
+images/Tomato_Late_blight/038.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/039.jpg,Late Blight,Late Blight,0.997477,1
+images/Tomato_Late_blight/040.jpg,Late Blight,Late Blight,0.993966,1
+images/Tomato_Late_blight/041.jpg,Late Blight,Late Blight,0.9996,1
+images/Tomato_Late_blight/042.jpg,Late Blight,Late Blight,0.999976,1
+images/Tomato_Late_blight/043.jpg,Late Blight,Late Blight,0.99999,1
+images/Tomato_Late_blight/044.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/045.jpg,Late Blight,Late Blight,0.788167,1
+images/Tomato_Late_blight/046.jpg,Late Blight,Late Blight,0.999992,1
+images/Tomato_Late_blight/047.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/048.jpg,Late Blight,Late Blight,0.999996,1
+images/Tomato_Late_blight/049.jpg,Late Blight,Late Blight,0.998578,1
+images/Tomato_Late_blight/050.jpg,Late Blight,Late Blight,0.999998,1
+images/Tomato_Late_blight/051.jpg,Late Blight,Late Blight,0.999974,1
+images/Tomato_Late_blight/052.jpg,Late Blight,Late Blight,0.999979,1
+images/Tomato_Late_blight/053.jpg,Late Blight,Late Blight,0.999995,1
+images/Tomato_Late_blight/054.jpg,Late Blight,Late Blight,0.970823,1
+images/Tomato_Late_blight/055.jpg,Late Blight,Late Blight,0.984164,1
+images/Tomato_Late_blight/056.jpg,Late Blight,Late Blight,0.999036,1
+images/Tomato_Late_blight/057.jpg,Late Blight,Late Blight,0.999996,1
+images/Tomato_Late_blight/058.jpg,Late Blight,Late Blight,0.999214,1
+images/Tomato_Late_blight/059.jpg,Late Blight,Late Blight,0.998726,1
+images/Tomato_Late_blight/060.jpg,Late Blight,Late Blight,0.999831,1
+images/Tomato_Late_blight/061.jpg,Late Blight,Late Blight,0.999306,1
+images/Tomato_Late_blight/062.jpg,Late Blight,Late Blight,0.999991,1
+images/Tomato_Late_blight/063.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/064.jpg,Late Blight,Late Blight,0.998836,1
+images/Tomato_Late_blight/065.jpg,Late Blight,Late Blight,0.986976,1
+images/Tomato_Late_blight/066.jpg,Late Blight,Late Blight,0.999088,1
+images/Tomato_Late_blight/067.jpg,Late Blight,Late Blight,0.999919,1
+images/Tomato_Late_blight/068.jpg,Late Blight,Leaf Mold,0.493605,0
+images/Tomato_Late_blight/069.jpg,Late Blight,Late Blight,0.999984,1
+images/Tomato_Late_blight/070.jpg,Late Blight,Late Blight,0.999804,1
+images/Tomato_Late_blight/071.jpg,Late Blight,Late Blight,0.996634,1
+images/Tomato_Late_blight/072.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/073.jpg,Late Blight,Late Blight,0.998781,1
+images/Tomato_Late_blight/074.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/075.jpg,Late Blight,Late Blight,0.999932,1
+images/Tomato_Late_blight/076.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Late_blight/077.jpg,Late Blight,Late Blight,0.989809,1
+images/Tomato_Late_blight/078.jpg,Late Blight,Late Blight,0.999972,1
+images/Tomato_Late_blight/079.jpg,Late Blight,Late Blight,0.99573,1
+images/Tomato_Late_blight/080.jpg,Late Blight,Late Blight,0.998545,1
+images/Tomato_Late_blight/081.jpg,Late Blight,Late Blight,0.425624,1
+images/Tomato_Late_blight/082.jpg,Late Blight,Late Blight,0.999996,1
+images/Tomato_Late_blight/083.jpg,Late Blight,Late Blight,0.999997,1
+images/Tomato_Late_blight/084.jpg,Late Blight,Late Blight,0.999998,1
+images/Tomato_Late_blight/085.jpg,Late Blight,Late Blight,0.999995,1
+images/Tomato_Late_blight/086.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/087.jpg,Late Blight,Late Blight,0.999992,1
+images/Tomato_Late_blight/088.jpg,Late Blight,Late Blight,0.999831,1
+images/Tomato_Late_blight/089.jpg,Late Blight,Late Blight,0.999375,1
+images/Tomato_Late_blight/090.jpg,Late Blight,Late Blight,0.827758,1
+images/Tomato_Late_blight/091.jpg,Late Blight,Late Blight,1.0,1
+images/Tomato_Late_blight/092.jpg,Late Blight,Late Blight,0.999305,1
+images/Tomato_Late_blight/093.jpg,Late Blight,Late Blight,0.966708,1
+images/Tomato_Late_blight/094.jpg,Late Blight,Late Blight,0.999679,1
+images/Tomato_Late_blight/095.jpg,Late Blight,Late Blight,0.995413,1
+images/Tomato_Late_blight/096.jpg,Late Blight,Late Blight,0.999917,1
+images/Tomato_Late_blight/097.jpg,Late Blight,Late Blight,0.999858,1
+images/Tomato_Late_blight/098.jpg,Late Blight,Late Blight,0.998332,1
+images/Tomato_Late_blight/099.jpg,Late Blight,Late Blight,0.999998,1
+images/Tomato_Late_blight/100.jpg,Late Blight,Late Blight,0.999999,1
+images/Tomato_Leaf_Mold/001.jpg,Leaf Mold,Leaf Mold,0.99608,1
+images/Tomato_Leaf_Mold/002.jpg,Leaf Mold,Leaf Mold,0.999986,1
+images/Tomato_Leaf_Mold/003.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/004.jpg,Leaf Mold,Leaf Mold,0.995087,1
+images/Tomato_Leaf_Mold/005.jpg,Leaf Mold,Leaf Mold,0.999982,1
+images/Tomato_Leaf_Mold/006.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/007.jpg,Leaf Mold,Leaf Mold,0.972865,1
+images/Tomato_Leaf_Mold/008.jpg,Leaf Mold,Leaf Mold,0.996329,1
+images/Tomato_Leaf_Mold/009.jpg,Leaf Mold,Leaf Mold,0.999936,1
+images/Tomato_Leaf_Mold/010.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/011.jpg,Leaf Mold,Leaf Mold,0.98283,1
+images/Tomato_Leaf_Mold/012.jpg,Leaf Mold,Leaf Mold,0.999917,1
+images/Tomato_Leaf_Mold/013.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/014.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/015.jpg,Leaf Mold,Leaf Mold,0.999862,1
+images/Tomato_Leaf_Mold/016.jpg,Leaf Mold,Leaf Mold,0.999752,1
+images/Tomato_Leaf_Mold/017.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/018.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/019.jpg,Leaf Mold,Leaf Mold,0.999994,1
+images/Tomato_Leaf_Mold/020.jpg,Leaf Mold,Leaf Mold,0.999994,1
+images/Tomato_Leaf_Mold/021.jpg,Leaf Mold,Leaf Mold,0.999998,1
+images/Tomato_Leaf_Mold/022.jpg,Leaf Mold,Leaf Mold,0.999966,1
+images/Tomato_Leaf_Mold/023.jpg,Leaf Mold,Leaf Mold,0.998472,1
+images/Tomato_Leaf_Mold/024.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/025.jpg,Leaf Mold,Leaf Mold,0.99608,1
+images/Tomato_Leaf_Mold/026.jpg,Leaf Mold,Leaf Mold,0.986791,1
+images/Tomato_Leaf_Mold/027.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/028.jpg,Leaf Mold,Leaf Mold,0.999989,1
+images/Tomato_Leaf_Mold/029.jpg,Leaf Mold,Leaf Mold,0.999902,1
+images/Tomato_Leaf_Mold/030.jpg,Leaf Mold,Leaf Mold,0.999862,1
+images/Tomato_Leaf_Mold/031.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/032.jpg,Leaf Mold,Leaf Mold,0.99878,1
+images/Tomato_Leaf_Mold/033.jpg,Leaf Mold,Leaf Mold,0.999936,1
+images/Tomato_Leaf_Mold/034.jpg,Leaf Mold,Leaf Mold,0.999967,1
+images/Tomato_Leaf_Mold/035.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/036.jpg,Leaf Mold,Leaf Mold,0.998084,1
+images/Tomato_Leaf_Mold/037.jpg,Leaf Mold,Leaf Mold,0.999984,1
+images/Tomato_Leaf_Mold/038.jpg,Leaf Mold,Leaf Mold,0.999926,1
+images/Tomato_Leaf_Mold/039.jpg,Leaf Mold,Leaf Mold,0.998911,1
+images/Tomato_Leaf_Mold/040.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/041.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/042.jpg,Leaf Mold,Leaf Mold,0.999813,1
+images/Tomato_Leaf_Mold/043.jpg,Leaf Mold,Leaf Mold,0.998611,1
+images/Tomato_Leaf_Mold/044.jpg,Leaf Mold,Leaf Mold,0.998738,1
+images/Tomato_Leaf_Mold/045.jpg,Leaf Mold,Leaf Mold,0.971705,1
+images/Tomato_Leaf_Mold/046.jpg,Leaf Mold,Leaf Mold,0.999995,1
+images/Tomato_Leaf_Mold/047.jpg,Leaf Mold,Leaf Mold,0.999294,1
+images/Tomato_Leaf_Mold/048.jpg,Leaf Mold,Leaf Mold,0.999997,1
+images/Tomato_Leaf_Mold/049.jpg,Leaf Mold,Leaf Mold,0.998376,1
+images/Tomato_Leaf_Mold/050.jpg,Leaf Mold,Leaf Mold,0.999994,1
+images/Tomato_Leaf_Mold/051.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/052.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/053.jpg,Leaf Mold,Leaf Mold,0.988991,1
+images/Tomato_Leaf_Mold/054.jpg,Leaf Mold,Leaf Mold,0.997316,1
+images/Tomato_Leaf_Mold/055.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/056.jpg,Leaf Mold,Leaf Mold,0.999488,1
+images/Tomato_Leaf_Mold/057.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/058.jpg,Leaf Mold,Leaf Mold,0.999852,1
+images/Tomato_Leaf_Mold/059.jpg,Leaf Mold,Leaf Mold,0.999998,1
+images/Tomato_Leaf_Mold/060.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/061.jpg,Leaf Mold,Leaf Mold,0.999994,1
+images/Tomato_Leaf_Mold/062.jpg,Leaf Mold,Leaf Mold,0.999994,1
+images/Tomato_Leaf_Mold/063.jpg,Leaf Mold,Leaf Mold,0.999998,1
+images/Tomato_Leaf_Mold/064.jpg,Leaf Mold,Leaf Mold,0.999442,1
+images/Tomato_Leaf_Mold/065.jpg,Leaf Mold,Leaf Mold,0.999993,1
+images/Tomato_Leaf_Mold/066.jpg,Leaf Mold,Leaf Mold,0.999559,1
+images/Tomato_Leaf_Mold/067.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/068.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/069.jpg,Leaf Mold,Leaf Mold,0.999977,1
+images/Tomato_Leaf_Mold/070.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/071.jpg,Leaf Mold,Leaf Mold,0.99993,1
+images/Tomato_Leaf_Mold/072.jpg,Leaf Mold,Leaf Mold,0.999997,1
+images/Tomato_Leaf_Mold/073.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/074.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/075.jpg,Leaf Mold,Leaf Mold,0.999971,1
+images/Tomato_Leaf_Mold/076.jpg,Leaf Mold,Leaf Mold,0.982424,1
+images/Tomato_Leaf_Mold/077.jpg,Leaf Mold,Leaf Mold,0.999999,1
+images/Tomato_Leaf_Mold/078.jpg,Leaf Mold,Leaf Mold,0.999589,1
+images/Tomato_Leaf_Mold/079.jpg,Leaf Mold,Leaf Mold,0.999672,1
+images/Tomato_Leaf_Mold/080.jpg,Leaf Mold,Leaf Mold,0.999393,1
+images/Tomato_Leaf_Mold/081.jpg,Leaf Mold,Leaf Mold,0.999997,1
+images/Tomato_Leaf_Mold/082.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/083.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/084.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/085.jpg,Leaf Mold,Leaf Mold,0.99594,1
+images/Tomato_Leaf_Mold/086.jpg,Leaf Mold,Leaf Mold,0.969302,1
+images/Tomato_Leaf_Mold/087.jpg,Leaf Mold,Leaf Mold,0.998324,1
+images/Tomato_Leaf_Mold/088.jpg,Leaf Mold,Leaf Mold,0.999993,1
+images/Tomato_Leaf_Mold/089.jpg,Leaf Mold,Leaf Mold,0.999438,1
+images/Tomato_Leaf_Mold/090.jpg,Leaf Mold,Leaf Mold,0.999995,1
+images/Tomato_Leaf_Mold/091.jpg,Leaf Mold,Leaf Mold,0.999903,1
+images/Tomato_Leaf_Mold/092.jpg,Leaf Mold,Leaf Mold,0.999997,1
+images/Tomato_Leaf_Mold/093.jpg,Leaf Mold,Leaf Mold,1.0,1
+images/Tomato_Leaf_Mold/094.jpg,Leaf Mold,Leaf Mold,0.988228,1
+images/Tomato_Leaf_Mold/095.jpg,Leaf Mold,Leaf Mold,0.999963,1
+images/Tomato_Leaf_Mold/096.jpg,Leaf Mold,Leaf Mold,0.999297,1
+images/Tomato_Leaf_Mold/097.jpg,Leaf Mold,Leaf Mold,0.999916,1
+images/Tomato_Leaf_Mold/098.jpg,Leaf Mold,Leaf Mold,0.999901,1
+images/Tomato_Leaf_Mold/099.jpg,Leaf Mold,Leaf Mold,0.999987,1
+images/Tomato_Leaf_Mold/100.jpg,Leaf Mold,Leaf Mold,0.999997,1
+images/Tomato_Septoria_leaf_spot/001.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/002.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/003.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/004.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.997963,1
+images/Tomato_Septoria_leaf_spot/005.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999939,1
+images/Tomato_Septoria_leaf_spot/006.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999989,1
+images/Tomato_Septoria_leaf_spot/007.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999934,1
+images/Tomato_Septoria_leaf_spot/008.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.983672,1
+images/Tomato_Septoria_leaf_spot/009.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/010.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999998,1
+images/Tomato_Septoria_leaf_spot/011.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999993,1
+images/Tomato_Septoria_leaf_spot/012.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.878329,1
+images/Tomato_Septoria_leaf_spot/013.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999964,1
+images/Tomato_Septoria_leaf_spot/014.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999987,1
+images/Tomato_Septoria_leaf_spot/015.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999125,1
+images/Tomato_Septoria_leaf_spot/016.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999993,1
+images/Tomato_Septoria_leaf_spot/017.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/018.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999897,1
+images/Tomato_Septoria_leaf_spot/019.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.875753,1
+images/Tomato_Septoria_leaf_spot/020.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999986,1
+images/Tomato_Septoria_leaf_spot/021.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/022.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999997,1
+images/Tomato_Septoria_leaf_spot/023.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.718686,1
+images/Tomato_Septoria_leaf_spot/024.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999947,1
+images/Tomato_Septoria_leaf_spot/025.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/026.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999855,1
+images/Tomato_Septoria_leaf_spot/027.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/028.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999997,1
+images/Tomato_Septoria_leaf_spot/029.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999311,1
+images/Tomato_Septoria_leaf_spot/030.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/031.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.998776,1
+images/Tomato_Septoria_leaf_spot/032.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999998,1
+images/Tomato_Septoria_leaf_spot/033.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.993249,1
+images/Tomato_Septoria_leaf_spot/034.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.998492,1
+images/Tomato_Septoria_leaf_spot/035.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999995,1
+images/Tomato_Septoria_leaf_spot/036.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.957311,1
+images/Tomato_Septoria_leaf_spot/037.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/038.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/039.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/040.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999429,1
+images/Tomato_Septoria_leaf_spot/041.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999286,1
+images/Tomato_Septoria_leaf_spot/042.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.962701,1
+images/Tomato_Septoria_leaf_spot/043.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999967,1
+images/Tomato_Septoria_leaf_spot/044.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/045.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.99994,1
+images/Tomato_Septoria_leaf_spot/046.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.993134,1
+images/Tomato_Septoria_leaf_spot/047.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999706,1
+images/Tomato_Septoria_leaf_spot/048.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999907,1
+images/Tomato_Septoria_leaf_spot/049.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/050.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999973,1
+images/Tomato_Septoria_leaf_spot/051.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/052.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999815,1
+images/Tomato_Septoria_leaf_spot/053.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999994,1
+images/Tomato_Septoria_leaf_spot/054.jpg,Septoria Leaf Spot,Spider Mites Two-spotted Spider Mite,0.902802,0
+images/Tomato_Septoria_leaf_spot/055.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.998446,1
+images/Tomato_Septoria_leaf_spot/056.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/057.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999991,1
+images/Tomato_Septoria_leaf_spot/058.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999961,1
+images/Tomato_Septoria_leaf_spot/059.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999997,1
+images/Tomato_Septoria_leaf_spot/060.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999875,1
+images/Tomato_Septoria_leaf_spot/061.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999928,1
+images/Tomato_Septoria_leaf_spot/062.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999914,1
+images/Tomato_Septoria_leaf_spot/063.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.998666,1
+images/Tomato_Septoria_leaf_spot/064.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.99838,1
+images/Tomato_Septoria_leaf_spot/065.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999998,1
+images/Tomato_Septoria_leaf_spot/066.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/067.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.99823,1
+images/Tomato_Septoria_leaf_spot/068.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999989,1
+images/Tomato_Septoria_leaf_spot/069.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.982744,1
+images/Tomato_Septoria_leaf_spot/070.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999939,1
+images/Tomato_Septoria_leaf_spot/071.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/072.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999147,1
+images/Tomato_Septoria_leaf_spot/073.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.979286,1
+images/Tomato_Septoria_leaf_spot/074.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.99948,1
+images/Tomato_Septoria_leaf_spot/075.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/076.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.988945,1
+images/Tomato_Septoria_leaf_spot/077.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/078.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999995,1
+images/Tomato_Septoria_leaf_spot/079.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/080.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999998,1
+images/Tomato_Septoria_leaf_spot/081.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/082.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999993,1
+images/Tomato_Septoria_leaf_spot/083.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.994217,1
+images/Tomato_Septoria_leaf_spot/084.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999515,1
+images/Tomato_Septoria_leaf_spot/085.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999973,1
+images/Tomato_Septoria_leaf_spot/086.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999999,1
+images/Tomato_Septoria_leaf_spot/087.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999996,1
+images/Tomato_Septoria_leaf_spot/088.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999956,1
+images/Tomato_Septoria_leaf_spot/089.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999986,1
+images/Tomato_Septoria_leaf_spot/090.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999445,1
+images/Tomato_Septoria_leaf_spot/091.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.997194,1
+images/Tomato_Septoria_leaf_spot/092.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999963,1
+images/Tomato_Septoria_leaf_spot/093.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999987,1
+images/Tomato_Septoria_leaf_spot/094.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999997,1
+images/Tomato_Septoria_leaf_spot/095.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.993956,1
+images/Tomato_Septoria_leaf_spot/096.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999975,1
+images/Tomato_Septoria_leaf_spot/097.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.99695,1
+images/Tomato_Septoria_leaf_spot/098.jpg,Septoria Leaf Spot,Septoria Leaf Spot,1.0,1
+images/Tomato_Septoria_leaf_spot/099.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999767,1
+images/Tomato_Septoria_leaf_spot/100.jpg,Septoria Leaf Spot,Septoria Leaf Spot,0.999979,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/001.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998904,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/002.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999959,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/003.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.994413,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/004.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,1.0,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/005.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.996606,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/006.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.997192,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/007.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.9998,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/008.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999998,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/009.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999813,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/010.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999899,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/011.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999943,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/012.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.980676,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/013.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.995438,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/014.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999996,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/015.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999625,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/016.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999983,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/017.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999932,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/018.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999924,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/019.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,1.0,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/020.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999268,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/021.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.997208,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/022.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999994,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/023.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999928,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/024.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.99999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/025.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.99923,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/026.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999908,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/027.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999989,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/028.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.956115,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/029.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998621,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/030.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999846,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/031.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.95066,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/032.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998195,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/033.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.997066,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/034.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.991401,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/035.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998883,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/036.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999897,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/037.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.992557,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/038.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/039.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,1.0,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/040.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999961,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/041.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/042.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999936,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/043.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999982,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/044.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999579,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/045.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998681,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/046.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.897985,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/047.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/048.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998208,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/049.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999908,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/050.jpg,Spider Mites Two-spotted Spider Mite,Target Spot,0.526968,0
+images/Tomato_Spider_mites_Two_spotted_spider_mite/051.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,1.0,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/052.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999994,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/053.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.989661,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/054.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999923,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/055.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.99998,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/056.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999992,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/057.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999983,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/058.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.95606,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/059.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999926,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/060.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.989494,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/061.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.997825,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/062.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999998,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/063.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.99408,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/064.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.976715,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/065.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999998,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/066.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999942,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/067.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.991315,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/068.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.995244,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/069.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.992969,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/070.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999899,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/071.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999654,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/072.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998936,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/073.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999996,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/074.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.99865,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/075.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.99999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/076.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.993411,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/077.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999998,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/078.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999995,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/079.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999548,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/080.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/081.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998654,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/082.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,1.0,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/083.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999917,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/084.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,1.0,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/085.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.992748,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/086.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999993,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/087.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998266,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/088.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999995,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/089.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999999,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/090.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.998715,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/091.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.993209,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/092.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999976,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/093.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.992314,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/094.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999846,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/095.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999414,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/096.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999993,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/097.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.995295,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/098.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999974,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/099.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999993,1
+images/Tomato_Spider_mites_Two_spotted_spider_mite/100.jpg,Spider Mites Two-spotted Spider Mite,Spider Mites Two-spotted Spider Mite,0.999727,1
+images/Tomato__Target_Spot/001.jpg,Target Spot,Target Spot,0.987288,1
+images/Tomato__Target_Spot/002.jpg,Target Spot,Target Spot,0.997098,1
+images/Tomato__Target_Spot/003.jpg,Target Spot,Target Spot,0.953736,1
+images/Tomato__Target_Spot/004.jpg,Target Spot,Target Spot,0.954662,1
+images/Tomato__Target_Spot/005.jpg,Target Spot,Target Spot,0.990485,1
+images/Tomato__Target_Spot/006.jpg,Target Spot,Target Spot,0.995248,1
+images/Tomato__Target_Spot/007.jpg,Target Spot,Target Spot,0.997528,1
+images/Tomato__Target_Spot/008.jpg,Target Spot,Target Spot,0.996367,1
+images/Tomato__Target_Spot/009.jpg,Target Spot,Target Spot,0.999916,1
+images/Tomato__Target_Spot/010.jpg,Target Spot,Target Spot,0.676123,1
+images/Tomato__Target_Spot/011.jpg,Target Spot,Target Spot,0.986364,1
+images/Tomato__Target_Spot/012.jpg,Target Spot,Target Spot,0.996908,1
+images/Tomato__Target_Spot/013.jpg,Target Spot,Target Spot,0.998838,1
+images/Tomato__Target_Spot/014.jpg,Target Spot,Target Spot,0.99944,1
+images/Tomato__Target_Spot/015.jpg,Target Spot,Target Spot,0.989708,1
+images/Tomato__Target_Spot/016.jpg,Target Spot,Target Spot,0.999817,1
+images/Tomato__Target_Spot/017.jpg,Target Spot,Target Spot,0.989207,1
+images/Tomato__Target_Spot/018.jpg,Target Spot,Target Spot,0.999988,1
+images/Tomato__Target_Spot/019.jpg,Target Spot,Target Spot,0.974458,1
+images/Tomato__Target_Spot/020.jpg,Target Spot,Target Spot,0.999961,1
+images/Tomato__Target_Spot/021.jpg,Target Spot,Target Spot,0.997204,1
+images/Tomato__Target_Spot/022.jpg,Target Spot,Target Spot,0.999603,1
+images/Tomato__Target_Spot/023.jpg,Target Spot,Target Spot,0.999999,1
+images/Tomato__Target_Spot/024.jpg,Target Spot,Target Spot,0.997831,1
+images/Tomato__Target_Spot/025.jpg,Target Spot,Target Spot,0.986265,1
+images/Tomato__Target_Spot/026.jpg,Target Spot,Target Spot,0.984827,1
+images/Tomato__Target_Spot/027.jpg,Target Spot,Target Spot,0.646848,1
+images/Tomato__Target_Spot/028.jpg,Target Spot,Target Spot,0.999339,1
+images/Tomato__Target_Spot/029.jpg,Target Spot,Target Spot,0.99927,1
+images/Tomato__Target_Spot/030.jpg,Target Spot,Target Spot,0.999607,1
+images/Tomato__Target_Spot/031.jpg,Target Spot,Target Spot,0.999646,1
+images/Tomato__Target_Spot/032.jpg,Target Spot,Target Spot,0.99991,1
+images/Tomato__Target_Spot/033.jpg,Target Spot,Target Spot,0.996844,1
+images/Tomato__Target_Spot/034.jpg,Target Spot,Target Spot,0.999928,1
+images/Tomato__Target_Spot/035.jpg,Target Spot,Target Spot,0.98573,1
+images/Tomato__Target_Spot/036.jpg,Target Spot,Target Spot,0.997702,1
+images/Tomato__Target_Spot/037.jpg,Target Spot,Target Spot,0.999971,1
+images/Tomato__Target_Spot/038.jpg,Target Spot,Target Spot,0.998562,1
+images/Tomato__Target_Spot/039.jpg,Target Spot,Target Spot,0.998971,1
+images/Tomato__Target_Spot/040.jpg,Target Spot,Target Spot,0.998124,1
+images/Tomato__Target_Spot/041.jpg,Target Spot,Target Spot,0.999931,1
+images/Tomato__Target_Spot/042.jpg,Target Spot,Target Spot,0.974789,1
+images/Tomato__Target_Spot/043.jpg,Target Spot,Target Spot,0.999937,1
+images/Tomato__Target_Spot/044.jpg,Target Spot,Target Spot,0.999745,1
+images/Tomato__Target_Spot/045.jpg,Target Spot,Target Spot,0.999552,1
+images/Tomato__Target_Spot/046.jpg,Target Spot,Target Spot,0.999997,1
+images/Tomato__Target_Spot/047.jpg,Target Spot,Target Spot,0.997183,1
+images/Tomato__Target_Spot/048.jpg,Target Spot,Target Spot,0.907486,1
+images/Tomato__Target_Spot/049.jpg,Target Spot,Target Spot,0.999828,1
+images/Tomato__Target_Spot/050.jpg,Target Spot,Target Spot,0.811676,1
+images/Tomato__Target_Spot/051.jpg,Target Spot,Target Spot,0.999918,1
+images/Tomato__Target_Spot/052.jpg,Target Spot,Target Spot,0.999989,1
+images/Tomato__Target_Spot/053.jpg,Target Spot,Target Spot,0.988186,1
+images/Tomato__Target_Spot/054.jpg,Target Spot,Target Spot,0.998274,1
+images/Tomato__Target_Spot/055.jpg,Target Spot,Target Spot,0.994611,1
+images/Tomato__Target_Spot/056.jpg,Target Spot,Target Spot,0.998316,1
+images/Tomato__Target_Spot/057.jpg,Target Spot,Target Spot,0.998142,1
+images/Tomato__Target_Spot/058.jpg,Target Spot,Target Spot,0.999456,1
+images/Tomato__Target_Spot/059.jpg,Target Spot,Target Spot,0.999565,1
+images/Tomato__Target_Spot/060.jpg,Target Spot,Target Spot,0.999995,1
+images/Tomato__Target_Spot/061.jpg,Target Spot,Target Spot,0.959327,1
+images/Tomato__Target_Spot/062.jpg,Target Spot,Target Spot,0.99951,1
+images/Tomato__Target_Spot/063.jpg,Target Spot,Target Spot,0.999771,1
+images/Tomato__Target_Spot/064.jpg,Target Spot,Target Spot,0.999986,1
+images/Tomato__Target_Spot/065.jpg,Target Spot,Target Spot,0.999622,1
+images/Tomato__Target_Spot/066.jpg,Target Spot,Target Spot,0.999996,1
+images/Tomato__Target_Spot/067.jpg,Target Spot,Target Spot,0.836105,1
+images/Tomato__Target_Spot/068.jpg,Target Spot,Target Spot,0.998885,1
+images/Tomato__Target_Spot/069.jpg,Target Spot,Target Spot,0.999775,1
+images/Tomato__Target_Spot/070.jpg,Target Spot,Target Spot,0.999064,1
+images/Tomato__Target_Spot/071.jpg,Target Spot,Target Spot,0.908962,1
+images/Tomato__Target_Spot/072.jpg,Target Spot,Target Spot,0.999961,1
+images/Tomato__Target_Spot/073.jpg,Target Spot,Septoria Leaf Spot,0.641669,0
+images/Tomato__Target_Spot/074.jpg,Target Spot,Target Spot,0.998738,1
+images/Tomato__Target_Spot/075.jpg,Target Spot,Target Spot,0.994667,1
+images/Tomato__Target_Spot/076.jpg,Target Spot,Target Spot,0.994604,1
+images/Tomato__Target_Spot/077.jpg,Target Spot,Target Spot,0.999402,1
+images/Tomato__Target_Spot/078.jpg,Target Spot,Target Spot,0.997892,1
+images/Tomato__Target_Spot/079.jpg,Target Spot,Target Spot,0.995119,1
+images/Tomato__Target_Spot/080.jpg,Target Spot,Target Spot,0.998939,1
+images/Tomato__Target_Spot/081.jpg,Target Spot,Target Spot,0.999998,1
+images/Tomato__Target_Spot/082.jpg,Target Spot,Target Spot,0.999999,1
+images/Tomato__Target_Spot/083.jpg,Target Spot,Target Spot,0.972918,1
+images/Tomato__Target_Spot/084.jpg,Target Spot,Target Spot,0.999885,1
+images/Tomato__Target_Spot/085.jpg,Target Spot,Target Spot,0.996835,1
+images/Tomato__Target_Spot/086.jpg,Target Spot,Target Spot,0.93861,1
+images/Tomato__Target_Spot/087.jpg,Target Spot,Target Spot,0.999908,1
+images/Tomato__Target_Spot/088.jpg,Target Spot,Target Spot,0.999649,1
+images/Tomato__Target_Spot/089.jpg,Target Spot,Target Spot,0.560785,1
+images/Tomato__Target_Spot/090.jpg,Target Spot,Target Spot,0.999998,1
+images/Tomato__Target_Spot/091.jpg,Target Spot,Target Spot,0.89872,1
+images/Tomato__Target_Spot/092.jpg,Target Spot,Target Spot,0.974506,1
+images/Tomato__Target_Spot/093.jpg,Target Spot,Target Spot,0.999607,1
+images/Tomato__Target_Spot/094.jpg,Target Spot,Target Spot,0.991024,1
+images/Tomato__Target_Spot/095.jpg,Target Spot,Target Spot,0.880751,1
+images/Tomato__Target_Spot/096.jpg,Target Spot,Target Spot,0.999706,1
+images/Tomato__Target_Spot/097.jpg,Target Spot,Target Spot,0.826181,1
+images/Tomato__Target_Spot/098.jpg,Target Spot,Target Spot,0.999848,1
+images/Tomato__Target_Spot/099.jpg,Target Spot,Target Spot,0.999965,1
+images/Tomato__Target_Spot/100.jpg,Target Spot,Target Spot,0.866014,1
+images/Tomato__Tomato_mosaic_virus/001.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999808,1
+images/Tomato__Tomato_mosaic_virus/002.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.994035,1
+images/Tomato__Tomato_mosaic_virus/003.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.996431,1
+images/Tomato__Tomato_mosaic_virus/004.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.963092,1
+images/Tomato__Tomato_mosaic_virus/005.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999971,1
+images/Tomato__Tomato_mosaic_virus/006.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.992832,1
+images/Tomato__Tomato_mosaic_virus/007.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.99076,1
+images/Tomato__Tomato_mosaic_virus/008.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999704,1
+images/Tomato__Tomato_mosaic_virus/009.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.967804,1
+images/Tomato__Tomato_mosaic_virus/010.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999869,1
+images/Tomato__Tomato_mosaic_virus/011.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999986,1
+images/Tomato__Tomato_mosaic_virus/012.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999678,1
+images/Tomato__Tomato_mosaic_virus/013.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999975,1
+images/Tomato__Tomato_mosaic_virus/014.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999232,1
+images/Tomato__Tomato_mosaic_virus/015.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.983993,1
+images/Tomato__Tomato_mosaic_virus/016.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999939,1
+images/Tomato__Tomato_mosaic_virus/017.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.991636,1
+images/Tomato__Tomato_mosaic_virus/018.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999896,1
+images/Tomato__Tomato_mosaic_virus/019.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.997101,1
+images/Tomato__Tomato_mosaic_virus/020.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999972,1
+images/Tomato__Tomato_mosaic_virus/021.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999433,1
+images/Tomato__Tomato_mosaic_virus/022.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999906,1
+images/Tomato__Tomato_mosaic_virus/023.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.963922,1
+images/Tomato__Tomato_mosaic_virus/024.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.992876,1
+images/Tomato__Tomato_mosaic_virus/025.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999023,1
+images/Tomato__Tomato_mosaic_virus/026.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.996707,1
+images/Tomato__Tomato_mosaic_virus/027.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998862,1
+images/Tomato__Tomato_mosaic_virus/028.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998336,1
+images/Tomato__Tomato_mosaic_virus/029.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.988918,1
+images/Tomato__Tomato_mosaic_virus/030.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999778,1
+images/Tomato__Tomato_mosaic_virus/031.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998804,1
+images/Tomato__Tomato_mosaic_virus/032.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998387,1
+images/Tomato__Tomato_mosaic_virus/033.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999636,1
+images/Tomato__Tomato_mosaic_virus/034.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999589,1
+images/Tomato__Tomato_mosaic_virus/035.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999981,1
+images/Tomato__Tomato_mosaic_virus/036.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999966,1
+images/Tomato__Tomato_mosaic_virus/037.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999922,1
+images/Tomato__Tomato_mosaic_virus/038.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999741,1
+images/Tomato__Tomato_mosaic_virus/039.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999973,1
+images/Tomato__Tomato_mosaic_virus/040.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.997553,1
+images/Tomato__Tomato_mosaic_virus/041.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999397,1
+images/Tomato__Tomato_mosaic_virus/042.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.996896,1
+images/Tomato__Tomato_mosaic_virus/043.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.988447,1
+images/Tomato__Tomato_mosaic_virus/044.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999998,1
+images/Tomato__Tomato_mosaic_virus/045.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999796,1
+images/Tomato__Tomato_mosaic_virus/046.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.918096,1
+images/Tomato__Tomato_mosaic_virus/047.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.997319,1
+images/Tomato__Tomato_mosaic_virus/048.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.986973,1
+images/Tomato__Tomato_mosaic_virus/049.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.990311,1
+images/Tomato__Tomato_mosaic_virus/050.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998339,1
+images/Tomato__Tomato_mosaic_virus/051.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.996471,1
+images/Tomato__Tomato_mosaic_virus/052.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.997866,1
+images/Tomato__Tomato_mosaic_virus/053.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999897,1
+images/Tomato__Tomato_mosaic_virus/054.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.989718,1
+images/Tomato__Tomato_mosaic_virus/055.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.997436,1
+images/Tomato__Tomato_mosaic_virus/056.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.993755,1
+images/Tomato__Tomato_mosaic_virus/057.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999722,1
+images/Tomato__Tomato_mosaic_virus/058.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999997,1
+images/Tomato__Tomato_mosaic_virus/059.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999997,1
+images/Tomato__Tomato_mosaic_virus/060.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.99734,1
+images/Tomato__Tomato_mosaic_virus/061.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998369,1
+images/Tomato__Tomato_mosaic_virus/062.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998186,1
+images/Tomato__Tomato_mosaic_virus/063.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999228,1
+images/Tomato__Tomato_mosaic_virus/064.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999969,1
+images/Tomato__Tomato_mosaic_virus/065.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999757,1
+images/Tomato__Tomato_mosaic_virus/066.jpg,Tomato Mosaic Virus,Spider Mites Two-spotted Spider Mite,0.578769,0
+images/Tomato__Tomato_mosaic_virus/067.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998851,1
+images/Tomato__Tomato_mosaic_virus/068.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999962,1
+images/Tomato__Tomato_mosaic_virus/069.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999715,1
+images/Tomato__Tomato_mosaic_virus/070.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.971077,1
+images/Tomato__Tomato_mosaic_virus/071.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,1.0,1
+images/Tomato__Tomato_mosaic_virus/072.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999001,1
+images/Tomato__Tomato_mosaic_virus/073.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999922,1
+images/Tomato__Tomato_mosaic_virus/074.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999999,1
+images/Tomato__Tomato_mosaic_virus/075.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.98051,1
+images/Tomato__Tomato_mosaic_virus/076.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999952,1
+images/Tomato__Tomato_mosaic_virus/077.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999988,1
+images/Tomato__Tomato_mosaic_virus/078.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999732,1
+images/Tomato__Tomato_mosaic_virus/079.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998173,1
+images/Tomato__Tomato_mosaic_virus/080.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999295,1
+images/Tomato__Tomato_mosaic_virus/081.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.997878,1
+images/Tomato__Tomato_mosaic_virus/082.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999471,1
+images/Tomato__Tomato_mosaic_virus/083.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999968,1
+images/Tomato__Tomato_mosaic_virus/084.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.979143,1
+images/Tomato__Tomato_mosaic_virus/085.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998799,1
+images/Tomato__Tomato_mosaic_virus/086.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.869991,1
+images/Tomato__Tomato_mosaic_virus/087.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999948,1
+images/Tomato__Tomato_mosaic_virus/088.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.996996,1
+images/Tomato__Tomato_mosaic_virus/089.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999997,1
+images/Tomato__Tomato_mosaic_virus/090.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.994092,1
+images/Tomato__Tomato_mosaic_virus/091.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.996694,1
+images/Tomato__Tomato_mosaic_virus/092.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.998813,1
+images/Tomato__Tomato_mosaic_virus/093.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.779564,1
+images/Tomato__Tomato_mosaic_virus/094.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999994,1
+images/Tomato__Tomato_mosaic_virus/095.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.990744,1
+images/Tomato__Tomato_mosaic_virus/096.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.992257,1
+images/Tomato__Tomato_mosaic_virus/097.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999852,1
+images/Tomato__Tomato_mosaic_virus/098.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.999988,1
+images/Tomato__Tomato_mosaic_virus/099.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.99999,1
+images/Tomato__Tomato_mosaic_virus/100.jpg,Tomato Mosaic Virus,Tomato Mosaic Virus,0.99998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/001.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999988,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/002.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999997,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/003.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999995,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/004.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999993,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/005.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/006.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/007.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.958395,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/008.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.997809,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/009.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/010.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/011.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999739,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/012.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.998889,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/013.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999981,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/014.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999209,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/015.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/016.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/017.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.991046,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/018.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999989,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/019.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/020.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999681,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/021.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999522,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/022.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/023.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999859,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/024.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999918,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/025.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/026.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/027.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.99518,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/028.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999585,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/029.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/030.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/031.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/032.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/033.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/034.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999843,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/035.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/036.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999976,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/037.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/038.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999996,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/039.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/040.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/041.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/042.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/043.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/044.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/045.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.998721,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/046.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.987536,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/047.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/048.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999918,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/049.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/050.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999088,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/051.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999498,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/052.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/053.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/054.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999972,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/055.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.996843,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/056.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/057.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999986,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/058.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/059.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/060.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999971,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/061.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999989,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/062.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.994351,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/063.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/064.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.998305,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/065.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/066.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999993,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/067.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/068.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/069.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999153,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/070.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/071.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.997608,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/072.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/073.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/074.jpg,Tomato Yellow Leaf Curl Virus,Spider Mites Two-spotted Spider Mite,0.936751,0
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/075.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999464,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/076.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/077.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/078.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/079.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999918,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/080.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/081.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/082.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/083.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999339,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/084.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/085.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/086.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/087.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/088.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/089.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999998,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/090.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999807,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/091.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999999,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/092.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/093.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/094.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/095.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/096.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/097.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/098.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,1.0,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/099.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.999985,1
+images/Tomato__Tomato_YellowLeaf__Curl_Virus/100.jpg,Tomato Yellow Leaf Curl Virus,Tomato Yellow Leaf Curl Virus,0.998266,1
