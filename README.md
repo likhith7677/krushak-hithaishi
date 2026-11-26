@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > **V7 Voice Farmer Assistant:** Please read [VOICE_ASSISTANT_V7_READ_ME_FIRST.md](VOICE_ASSISTANT_V7_READ_ME_FIRST.md) for Kannada/Telugu questions, free and optional neural voices, privacy, and safe upgrade instructions.
 
 # Version 6 — Class-label-only leaf analysis
@@ -137,3 +138,7 @@ This package is meant for a functional final-year project demonstration and furt
 English, Kannada, Hindi and Telugu spoken crop results and a microphone-controlled
 assistant have been added. See **VOICE_FEATURES_READ_ME_FIRST.md** for Windows
 startup, examples, language switching, limitations and privacy information.
+=======
+# krushak-hithaishi
+AI-powered crop disease dection and suggest fertilizers with nearby shops 
+>>>>>>> 3c3fe8f29788829795a9a14359b9203ff30ab9af
